@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
         marginTop: 100,
         padding: 10,
         marginHorizontal: 24,
-        backgroundColor: '#f8e7ff',
+       
 
     },
     numberInput:{
